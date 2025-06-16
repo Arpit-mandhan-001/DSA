@@ -37,3 +37,8 @@ int main()
     cout << largest_element1(arr1, n) << endl;
   
 }
+
+
+void solve(){
+    cout<<'hello deepak how do you do';
+}
